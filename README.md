@@ -2,7 +2,7 @@
 
 A robust, single half-bridge motor driver featuring galvanic PWM isolation and high-resolution bidirectional current sensing. Designed to safely interface a microcontroller with high-voltage motor rails while providing precise analog current feedback.
 
-<img width="895" height="589" alt="image" src="https://github.com/user-attachments/assets/5f96d560-fb88-4191-8479-8bd30e3e32d0" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5f96d560-fb88-4191-8479-8bd30e3e32d0" />
 
 ## Project Status
 - **Hardware:** Complete (KiCad schematic and PCB layout finalized).
